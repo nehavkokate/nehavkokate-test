@@ -1,0 +1,6 @@
+No. Both functions wont return same thing because the 1st function will give the output
+{
+"bar": "hello"
+}
+and 2nd function will be undefined because 2nd function cannot give output since a function cannot run
+under another function.
